@@ -1,5 +1,5 @@
 # Github leaning Aspects and points.
-## In this I discussed/write those point that must be important for knowing what is github
+## In this I discussed/write those point that must be important for knowing what is github.
 
 ### Learning GitHub involves understanding various concepts related to version control, collaboration, and software development. GitHub is a platform that hosts Git repositories and provides tools for managing and collaborating on projects. Here are some key learning aspects and points to consider when learning GitHub:
 
