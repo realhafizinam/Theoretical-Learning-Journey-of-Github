@@ -2,7 +2,7 @@
 
 ### A repository, often referred to as a "repo," is a fundamental concept in version control systems like Git and platforms like GitHub. It serves as a container for your project's code, files, and the entire history of changes made to those files. Repositories are used to track the development of software, collaborate with others, and manage the evolution of your project. In GitHub, repositories play a crucial role in facilitating collaboration, version control, and project management.
 
-##### Now its time to mentioned some points about repository.
+##### Now its time to mentioned some points about repository.and note that these are few of many.
 #### Here's how repositories are used in GitHub:
 
 *  1.  Creating a Repository:
