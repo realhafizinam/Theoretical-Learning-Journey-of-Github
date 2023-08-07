@@ -1,6 +1,6 @@
 # Tasks can be performed by github.
 
-## GitHub offers a wide range of tasks and features that facilitate software development, collaboration, and project management. Here are some tasks that can be performed using GitHub:
+## GitHub offers a wide range of tasks and features that facilitate software development, collaboration, and project management. Here are some tasks that can be performed using GitHub.
 ### We can also use github other than these tasks that I mentioned. Due its wide range of offers.
 
 *   1. Version Control:
